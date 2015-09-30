@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周易集解
-#+DATE: 2015-09-23 09:34:11
-#+PROPERTY: JUAN 17
+#+DATE: 2015-08-24 21:53:28.606292
+#+PROPERTY: ID KR1a0008
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十七
 <pb:KR1a0008_WYG_017-1a>¶
 欽定四庫全書¶
 　周易集解卷十七¶
@@ -938,4 +940,3 @@
 　尹之人也故夫子及之焉是以聖人之於天下也同¶
 　不是異不非百世以俟聖人而不惑一以貫之矣¶
 　周易集解卷十七¶
-
